@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Proxima Nova Alt';
+    src: local('Proxima Nova Alt Light'), local('Proxima-Nova-Alt-Light'),
+        url('ProximaNovaA-Light.woff2') format('woff2'),
+        url('ProximaNovaA-Light.woff') format('woff'),
+        url('ProximaNovaA-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
