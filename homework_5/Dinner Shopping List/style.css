@@ -75,6 +75,10 @@ span {
   margin-left: 8px;
 }
 
+.checked {
+  transform: scale(1.5);
+}
+
 .checked:checked + span {
   text-decoration: line-through;
   color: #a3a0b5;
